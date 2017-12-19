@@ -1,0 +1,20 @@
+{
+    "name": "geeshoe/php-auth-class",
+    "description": "PHP Library for authenticating users",
+    "type": "library",
+    "require": {
+        "geeshoe/dbclass": "dev-develop"
+    },
+    "authors": [
+        {
+            "name": "Jesse Rushlow",
+            "email": "jr@geeshoe.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload" : {
+        "psr-4" : {
+            "geeshoe\\PhpAuthClass\\" : "src/"
+        }
+    }
+}
