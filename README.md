@@ -5,7 +5,7 @@ Currently this project is in active development. As such documentation and featu
 
 ### Prerequisites
 
-This library depends on ```geeshoe/dbClass-php```
+This library depends on ```geeshoe/dbClass-php >= v0.1.0```
 
 ##License
 The license for this project is currently under review.
