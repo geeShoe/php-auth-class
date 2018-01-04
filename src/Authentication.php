@@ -1,9 +1,9 @@
 <?php
 namespace geeshoe\PhpAuthClass;
 
-use geeshoe\dbClass\db;
+use geeshoe\dbClass\Db;
 
-class Authentication extends db
+class Authentication extends Db
 {
     public function verifyPassword($array)
     {
