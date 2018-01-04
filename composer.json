@@ -3,7 +3,7 @@
     "description": "PHP Library for authenticating users",
     "type": "library",
     "require": {
-        "geeshoe/dbclass": "dev-develop"
+        "geeshoe/dbclass": "^0.1.0"
     },
     "authors": [
         {
@@ -11,7 +11,6 @@
             "email": "jr@geeshoe.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload" : {
         "psr-4" : {
             "geeshoe\\PhpAuthClass\\" : "src/"
